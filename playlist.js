@@ -11,6 +11,6 @@ function test(){
 	test.onclick = alertfn;
 }
 function alertfn(){
-	alert("it worked!";)
+	alert("it worked!");
 }
 window.onload = init;
